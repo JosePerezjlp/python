@@ -1,0 +1,34 @@
+[
+    "Fideos caseros",
+    [
+        "ingredientes",
+        {
+            "nombre": "huevo",
+            "unidad medida": "60gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "harina 0000",
+            "unidad medida": "100gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "aceite de oliva",
+            "unidad medida": "20gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "sal",
+            "unidad medida": "20gr",
+            "cantidad": "1"
+        }
+    ],
+    [
+        "preparacion",
+        "Poner la harina y la sal en un bol, integrar y hacer un hueco en el medio. Agregar el huevo y el aceite si eligen agregarle. Batir un poco con una cuchara o tenedor y unir en una masa.",
+        "Una vez que se haya integrado todo muy bien a amasar! Amasar unos 15 o 20 minutos y dejar descansar por media hora.",
+        "En este paso hay que estirar la masa: ya sea con m\u00e1quina de pastas o con un palo de amasar el proceso es el mismo. Hay que estirar la masa, doblarla y volverla a estirar. Una y otra vez hasta que quede del grosor que estamos buscando. Si es con la m\u00e1quina hay que ir bajando un n\u00famero cada vez, si es con el palote hay que amasar con m\u00e1s fuerza!",
+        "Se debe cortar en la forma que se prefiera, se espolvorea con harina y se deja orear unos 30 minutos",
+        "Hervir los fideos caseros 10 min, servir con la salsa que mas les guste y con todo el queso que quieran y a disfrutar!"
+    ]
+]

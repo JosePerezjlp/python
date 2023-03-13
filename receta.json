@@ -1,0 +1,74 @@
+[
+    "Salteado de verduras, pollo y arroz",
+    [
+        "ingredientes",
+        {
+            "nombre": "pechuga de pollo",
+            "unidad medida": "800gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "zanahoria",
+            "unidad medida": "60gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "cebolla",
+            "unidad medida": "50gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "pimiento rojo",
+            "unidad medida": "40gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "pimiento verde",
+            "unidad medida": "30gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ajo",
+            "unidad medida": "8gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "sal",
+            "unidad medida": "40gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "pimienta",
+            "unidad medida": "20gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "salsa de soja",
+            "unidad medida": "22gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "semillas de s\u00e9samo",
+            "unidad medida": "10gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "vino blanco",
+            "unidad medida": "20gr",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "arroz basmati",
+            "unidad medida": "250gr",
+            "cantidad": "1"
+        }
+    ],
+    [
+        "preparacion",
+        "En una olla hervir el arroz basmati hasta el punto al dente y reservar",
+        "Maceramos la pechuga cortada en tiras con la salsa de soja, el vino y el diente de ajo prensado al menos por media hora.",
+        "Mientras vamos picando en juliana las verduras.",
+        "Escurrimos el pollo del l\u00edquido de la maceraci\u00f3n y lo ponemos en el wok con un poquito de aceite. Cuando est\u00e9n dorados los retiramos y ponemos las verduras (todas a la vez) y en cuando empiezan a ablandarse y coger color a\u00f1adimos el l\u00edquido de la maceraci\u00f3n y salteamos sin parar pero con cuidado.",
+        "En cuanto el alcohol del vino haya evaporado y el l\u00edquido se reduzca ponemos el pollo y el arroz cocido y muy bien escurrido, damos unas vueltas con cuidado para que el arroz no se deshaga ni apelmace y servimos caliente con el s\u00e9samo por encima."
+    ]
+]    
